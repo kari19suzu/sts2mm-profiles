@@ -1,0 +1,372 @@
+{
+  "name": "Mod Friends",
+  "game_version": null,
+  "created_by": "kari19suzu",
+  "mods": [
+    {
+      "name": "BaseLib",
+      "version": "v3.0.3",
+      "source": null,
+      "hash": "d993bf78f6f73bc47b3a36edd020cdc647ff924a848d29003d9aea46b9da5e68",
+      "files": [
+        "BaseLib.dll",
+        "BaseLib.json",
+        "BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/kari19suzu/sts2mm-profiles/releases/download/bundles/BaseLib_v3.0.3_b91e89d0.zip",
+      "bundle_sha256": "b91e89d0649e717ffa70638cc1ed6d35d5923559f96470126ae36a5f92498224"
+    },
+    {
+      "name": "silentSkin",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "b137ebd5dde9fbf07adba96cf898e217d88453395dbf6a91c9ce1966819210d3",
+      "files": [
+        "mod_manifest.json"
+      ],
+      "folder_name": "mod_manifest",
+      "mod_id": "silentSkin",
+      "enabled": true,
+      "bundle_url": "https://github.com/kari19suzu/sts2mm-profiles/releases/download/bundles/silentSkin_v0.0.1_ced1722c.zip",
+      "bundle_sha256": "ced1722c1f173e29803ae907c8b47535b40c635bd22ac2c29ba9d4498f173e87"
+    },
+    {
+      "name": "Necrobinder Osty Vaalmonica Mod",
+      "version": "0.9.1",
+      "source": null,
+      "hash": "6032e571c62626f84749a2a6ec23a362c5421349ba1fba82d53115534d25b480",
+      "files": [
+        "NecrobinderOstyVaalmonicaMod.dll",
+        "NecrobinderOstyVaalmonicaMod.json",
+        "NecrobinderOstyVaalmonicaMod.pck"
+      ],
+      "folder_name": "NecrobinderOstyVaalmonicaMod",
+      "mod_id": "NecrobinderOstyVaalmonicaMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/kari19suzu/sts2mm-profiles/releases/download/bundles/Necrobinder_Osty_Vaalmonica_Mod_v0.9.1_3a90f2fc.zip",
+      "bundle_sha256": "3a90f2fcb7f4f1cf2ad0951c327eff7e91f24a7aad8634dc8ad732e6d6475d43"
+    },
+    {
+      "name": "Ryoshu",
+      "version": "0.3.2",
+      "source": null,
+      "hash": "ed50468d597c16f150f92432872359f9ddb83c5647fba92d1aa5844bd10d04a8",
+      "files": [
+        "Ryoshu.dll",
+        "Ryoshu.json",
+        "Ryoshu.pck"
+      ],
+      "folder_name": "Ryoshu",
+      "mod_id": "Ryoshu",
+      "enabled": true,
+      "bundle_url": "https://github.com/kari19suzu/sts2mm-profiles/releases/download/bundles/Ryoshu_v0.3.2_01a0adff.zip",
+      "bundle_sha256": "01a0adff964aaa0f06142977f0c6fe2e47f7ddd93cbb147929436fc1ce183a2d"
+    },
+    {
+      "name": "StS2Hoshino",
+      "version": "v0.0.12",
+      "source": "github:kimjoy2002/StS2Hoshino",
+      "hash": "fa701bbcc6edb59f477fcd1856c77d1de8d28c41dcaccc8b9cce4c38ca805db4",
+      "files": [
+        "StS2Hoshino.dll",
+        "StS2Hoshino.json",
+        "StS2Hoshino.pck"
+      ],
+      "folder_name": "StS2Hoshino",
+      "mod_id": "StS2Hoshino",
+      "enabled": true,
+      "bundle_url": "https://github.com/kari19suzu/sts2mm-profiles/releases/download/bundles/StS2Hoshino_v0.0.12_cd52d460.zip",
+      "bundle_sha256": "cd52d4604f05538d3d2031cb7e11ff6966138362e75db5c03e86af113a99e2f4"
+    },
+    {
+      "name": "Unified Save Path",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "08b7cbb36c7b48820e44c060d2dc6b6c49edbb945c7cb1e8f7a44866f7c650cc",
+      "files": [
+        "UnifiedSavePath.dll",
+        "UnifiedSavePath.json",
+        "UnifiedSavePath.pck"
+      ],
+      "folder_name": "UnifiedSavePath",
+      "mod_id": "UnifiedSavePath",
+      "enabled": true,
+      "bundle_url": "https://github.com/kari19suzu/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_a7327a01.zip",
+      "bundle_sha256": "a7327a019650a64ef4427aa744d8196b37a3de3881b3d558d749c956e5d870d5"
+    },
+    {
+      "name": "vortex.deployment.slaythespire2-mod",
+      "version": "0.0.0",
+      "source": null,
+      "hash": "19336e3529591cb665c4930a996a80aa9abfdaa430b72b47a5e2cd8a1064b682",
+      "files": [
+        "vortex.deployment.slaythespire2-mod.json"
+      ],
+      "folder_name": "vortex.deployment.slaythespire2-mod",
+      "enabled": true,
+      "bundle_url": "https://github.com/kari19suzu/sts2mm-profiles/releases/download/bundles/vortex_deployment_slaythespire2-mod_v0.0.0_b175acb6.zip",
+      "bundle_sha256": "b175acb6688aed32c22581dd647df2d953fea2613d83c398ba60d552eea8b456"
+    },
+    {
+      "name": "Acheron",
+      "version": "v0.4.4",
+      "source": null,
+      "hash": "5893f014570c6c739622c7d97ab78d9c618e58d612a4a05571fc82931089167e",
+      "files": [
+        "Acheron\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "Acheron",
+      "mod_id": "Acheron",
+      "enabled": true,
+      "bundle_url": "https://github.com/kari19suzu/sts2mm-profiles/releases/download/bundles/Acheron_v0.4.4_4ed2287b.zip",
+      "bundle_sha256": "4ed2287b51d20c72c86760c2461a85d0669a2d40bd47e22748056cb47f485d9a"
+    },
+    {
+      "name": "BetterSpire2 Lite",
+      "version": "v1.82.3",
+      "source": null,
+      "hash": "ecc5b0a1a69304913909c513f9231888fd12be0cf266c6ca1eda8f1d1ac98e58",
+      "files": [
+        "BetterSpire2Lite\\BetterSpire2_localization\\__folder_managed_by_vortex",
+        "BetterSpire2Lite\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "BetterSpire2Lite",
+      "mod_id": "BetterSpire2Lite",
+      "enabled": true,
+      "bundle_url": "https://github.com/kari19suzu/sts2mm-profiles/releases/download/bundles/BetterSpire2_Lite_v1.82.3_b2734fd8.zip",
+      "bundle_sha256": "b2734fd89864391437a2df0324657040565e00b2814154d05fa160ee3d1f3409"
+    },
+    {
+      "name": "Highlight Card Types in Potion Description",
+      "version": "v0.1.3",
+      "source": null,
+      "hash": "31356c8a8195ed6768372163a2ddf9d0560fcbabf4f0c1af7f5401774ba0f65c",
+      "files": [
+        "HighlightPotionCards\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "HighlightPotionCards",
+      "mod_id": "HighlightPotionCards",
+      "enabled": true,
+      "bundle_url": "https://github.com/kari19suzu/sts2mm-profiles/releases/download/bundles/Highlight_Card_Types_in_Potion_Description_v0.1.3_357b782a.zip",
+      "bundle_sha256": "357b782a2cf081072ac13ad05debbd3dfecf4f3e7d9b3365a74da3ec78262b66"
+    },
+    {
+      "name": "Kafka",
+      "version": "v0.12.2",
+      "source": null,
+      "hash": "3fe3981e68f9acc3066e46f0ca9885713f1a85a9347c2365fe3a40361e8194ac",
+      "files": [
+        "Kafka\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "Kafka",
+      "mod_id": "Kafka",
+      "enabled": true,
+      "bundle_url": "https://github.com/kari19suzu/sts2mm-profiles/releases/download/bundles/Kafka_v0.12.2_2d4ef59f.zip",
+      "bundle_sha256": "2d4ef59ff8f93beb5d64e531487d15c2af1a212a55a6f0b3eec9e0db0d194260"
+    },
+    {
+      "name": "config",
+      "version": "0.0.0",
+      "source": null,
+      "hash": "e318886e1878d2113debf836745ed9908b386b74598d193646d5bcc31a537cd4",
+      "files": [
+        "KnowledgeDemon\\config.json",
+        "KnowledgeDemon\\uploaded_manifest.json",
+        "KnowledgeDemon\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "KnowledgeDemon",
+      "enabled": true,
+      "bundle_url": "https://github.com/kari19suzu/sts2mm-profiles/releases/download/bundles/config_v0.0.0_0cf41aa7.zip",
+      "bundle_sha256": "0cf41aa7ec22b7ac4bd415e4eeeaf7eeb74f6dd6be0cb23a07f7b4b15e36fdc3"
+    },
+    {
+      "name": "Load Order Manager / 模组加载顺序管理",
+      "version": "0.2.1",
+      "source": null,
+      "hash": "e4934f7f3e0f9ae2e7f7f2d35b8b2c790a6e24c4b788650a1dc6f2438d2cdfc2",
+      "files": [
+        "LoadOrderManager\\i18n\\de.lang.vortex_backup",
+        "LoadOrderManager\\i18n\\en.lang.vortex_backup",
+        "LoadOrderManager\\i18n\\es-419.lang.vortex_backup",
+        "LoadOrderManager\\i18n\\es-ES.lang.vortex_backup",
+        "LoadOrderManager\\i18n\\fr.lang.vortex_backup",
+        "LoadOrderManager\\i18n\\it.lang.vortex_backup",
+        "LoadOrderManager\\i18n\\ja.lang.vortex_backup",
+        "LoadOrderManager\\i18n\\ko.lang.vortex_backup",
+        "LoadOrderManager\\i18n\\pl.lang.vortex_backup",
+        "LoadOrderManager\\i18n\\pt-BR.lang.vortex_backup",
+        "LoadOrderManager\\i18n\\ru.lang.vortex_backup",
+        "LoadOrderManager\\i18n\\tr.lang.vortex_backup",
+        "LoadOrderManager\\i18n\\zhs.lang.vortex_backup",
+        "LoadOrderManager\\i18n\\zht.lang.vortex_backup",
+        "LoadOrderManager\\LoadOrderManager.dll.vortex_backup",
+        "LoadOrderManager\\mod_manifest.json.vortex_backup"
+      ],
+      "folder_name": "LoadOrderManager",
+      "mod_id": "LoadOrderManager",
+      "enabled": true,
+      "bundle_url": "https://github.com/kari19suzu/sts2mm-profiles/releases/download/bundles/Load_Order_Manager___._v0.2.1_67167529.zip",
+      "bundle_sha256": "6716752914ba8f6763ebf833a12c491007dab6b5b0884575c8e0143ce208e899"
+    },
+    {
+      "name": "皮皮配置: ModConfig",
+      "version": "0.2.3",
+      "source": null,
+      "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
+      "files": [
+        "ModConfig\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "ModConfig",
+      "mod_id": "ModConfig",
+      "enabled": true,
+      "bundle_url": "https://github.com/kari19suzu/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_deaca8b2.zip",
+      "bundle_sha256": "deaca8b20ec76c9365cbff22e8f03eca813643b1574b2f1db1d6017bf9ba0d46"
+    },
+    {
+      "name": "Multi-Hit Damage",
+      "version": "1.4",
+      "source": null,
+      "hash": "d583eb94a671ab3fa539fd256d7f031138aee4036fde42023c054545d55917fa",
+      "files": [
+        "MultiHitDamage\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "MultiHitDamage",
+      "mod_id": "MultiHitDamage",
+      "enabled": true,
+      "bundle_url": "https://github.com/kari19suzu/sts2mm-profiles/releases/download/bundles/Multi-Hit_Damage_v1.4_0f7aace2.zip",
+      "bundle_sha256": "0f7aace21c2531facdb6365c36159686cefcb97475b2b9c38cc44b2df2b17c30"
+    },
+    {
+      "name": "NecroExpanderMod",
+      "version": "v0.0.1",
+      "source": null,
+      "hash": "ed7489af6130eabb5cba0c2fcb1b6f3ee8b5e106c1c3bdff757dc2a3307396e5",
+      "files": [
+        "NecroExpanderMod\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "NecroExpanderMod",
+      "mod_id": "NecroExpanderMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/kari19suzu/sts2mm-profiles/releases/download/bundles/NecroExpanderMod_v0.0.1_1e40003e.zip",
+      "bundle_sha256": "1e40003ea5e3629557553e469079013b425f37974c24bdcaaf5cd3473cf728a1"
+    },
+    {
+      "name": "Potion Rarity Display",
+      "version": "1.1",
+      "source": null,
+      "hash": "ef3feaa5c169f5c587dbbea85f1385a20238d77d0e52d3096d2dbfdc2cb47fba",
+      "files": [
+        "PotionRarityDisplay\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "PotionRarityDisplay",
+      "mod_id": "PotionRarityDisplay",
+      "enabled": true,
+      "bundle_url": "https://github.com/kari19suzu/sts2mm-profiles/releases/download/bundles/Potion_Rarity_Display_v1.1_ca4bd90c.zip",
+      "bundle_sha256": "ca4bd90c63a80fc5be378fc8ed26021d5a087aaaf48b3d8f7593a70ba9133e98"
+    },
+    {
+      "name": "Relic Rarity Display",
+      "version": "1.1",
+      "source": null,
+      "hash": "3e0f32fe90d01529d0a8293c21bc1910a38297bd079147196ff1c16bf6a722fc",
+      "files": [
+        "RelicRarityDisplay\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "RelicRarityDisplay",
+      "mod_id": "RelicRarityDisplay",
+      "enabled": true,
+      "bundle_url": "https://github.com/kari19suzu/sts2mm-profiles/releases/download/bundles/Relic_Rarity_Display_v1.1_1a6dd26c.zip",
+      "bundle_sha256": "1a6dd26cff61ca0479dbb77838fc8647c2e06fdadb9dc5f1dcc6e7962b64cb07"
+    },
+    {
+      "name": "Relics Reminder",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "68d5224995ef4c6ae954aab918185188c0dd2d10f6a89ce85a08dfb37fd3d1e9",
+      "files": [
+        "RelicsReminder\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "RelicsReminder",
+      "mod_id": "RelicsReminder",
+      "enabled": true,
+      "bundle_url": "https://github.com/kari19suzu/sts2mm-profiles/releases/download/bundles/Relics_Reminder_v0.1.0_92db4c39.zip",
+      "bundle_sha256": "92db4c39e80a6ad0f127acd5ee1d48f851604b3210571fab099dd2c0da3b6919"
+    },
+    {
+      "name": "RouteSuggest",
+      "version": "1.11.0",
+      "source": null,
+      "hash": "b1d2228b21e56de1848ae2534d09dbf53d96133055daf5ffacab84032f2867df",
+      "files": [
+        "RouteSuggest\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "RouteSuggest",
+      "mod_id": "RouteSuggest",
+      "enabled": true,
+      "bundle_url": "https://github.com/kari19suzu/sts2mm-profiles/releases/download/bundles/RouteSuggest_v1.11.0_5b42ac29.zip",
+      "bundle_sha256": "5b42ac29bcf9db335a31433f082248e4059ce98d513a0deb6df3621ea8053ad9"
+    },
+    {
+      "name": "SlayWithController",
+      "version": "1.3.4",
+      "source": null,
+      "hash": "732acd53606bc559b3af1e64e431f11942a3b5cfbca15d758be3e0b166d06794",
+      "files": [
+        "SlayWithController\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "SlayWithController",
+      "mod_id": "SlayWithController",
+      "enabled": true,
+      "bundle_url": "https://github.com/kari19suzu/sts2mm-profiles/releases/download/bundles/SlayWithController_v1.3.4_0336434a.zip",
+      "bundle_sha256": "0336434a02679904a0afc66a4f8d3f8809c4825ad5074a04551684d56a6d0fba"
+    },
+    {
+      "name": "皮皮极速: SpeedX",
+      "version": "0.11.7",
+      "source": null,
+      "hash": "fe152522c9d030290c2db2eb3777ff3d7f835be5cb8c739df9c3e64e7da6384d",
+      "files": [
+        "SpeedX\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "SpeedX",
+      "mod_id": "SpeedX",
+      "enabled": true,
+      "bundle_url": "https://github.com/kari19suzu/sts2mm-profiles/releases/download/bundles/__SpeedX_v0.11.7_4018d0f5.zip",
+      "bundle_sha256": "4018d0f5c616cd83c461fae79d7cfc2021c0f2d5ae39adf36f6dbbd8b3e70518"
+    },
+    {
+      "name": "STS Tracker Companion",
+      "version": "1.6.0",
+      "source": null,
+      "hash": "76af63e08343ee6afdd6243168afb069b43097952bf8a4b5cb79c5d327c07688",
+      "files": [
+        "StsCompanion\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "StsCompanion",
+      "mod_id": "StsCompanion",
+      "enabled": true,
+      "bundle_url": "https://github.com/kari19suzu/sts2mm-profiles/releases/download/bundles/STS_Tracker_Companion_v1.6.0_aef4fb4e.zip",
+      "bundle_sha256": "aef4fb4eceefcc41e3c81cbbcd74d1f4a4caeba00cd25bc97d2e956546e9a2b0"
+    },
+    {
+      "name": "ATA_IronClad",
+      "version": "unknown",
+      "source": null,
+      "hash": "6676415de3dfab19b46c0ed16b5be3d9d283fd0f1ee671a235cc2838e7110b7c",
+      "files": [
+        "ATA_IronClad.dll",
+        "ATA_IronClad.pck"
+      ],
+      "folder_name": "ATA_IronClad",
+      "enabled": true,
+      "bundle_url": "https://github.com/kari19suzu/sts2mm-profiles/releases/download/bundles/ATA_IronClad_vunknown_53daac6c.zip",
+      "bundle_sha256": "53daac6c6d8f15386d394d84619c768bf3b4937b4b7cac1465dedf45a8805098"
+    }
+  ],
+  "created_at": "2026-06-02T14:49:29.589616Z",
+  "updated_at": "2026-06-02T14:49:29.885160500Z",
+  "public": false
+}
